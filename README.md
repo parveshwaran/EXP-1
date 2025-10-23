@@ -74,10 +74,12 @@ Tabulation:
 
 a.   KVL:
  
+![Screenshot_23-10-2025_8111_](https://github.com/user-attachments/assets/c0f07639-fc2f-496a-bc07-10a6c5b3f2bd)
 
 
 b.  KCL:
 
+![Screenshot_23-10-2025_81145_](https://github.com/user-attachments/assets/34794883-574c-45e3-8d80-42246e305afc)
 
 
 RESULT:
